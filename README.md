@@ -1,16 +1,28 @@
-# rick_and_morty
+# Rick and Morty Flutter App
 
-A new Flutter project.
+## Описание
 
-## Getting Started
+Этот проект был разработан в рамках курса [Learn Flutter](https://www.udemy.com/course/learn_flutter/) на Udemy. Он предназначен для изучения Flutter и архитектурных подходов к созданию мобильных приложений.
 
-This project is a starting point for a Flutter application.
+## Функционал
 
-A few resources to get you started if this is your first Flutter project:
+- Просмотр списка персонажей вселенной Rick and Morty
+- Детальная информация о каждом персонаже (имя, статус, вид, локация и изображение)
+- Поиск персонажей по имени
+- Кэширование изображений для ускоренной загрузки
+- Проверка интернет-соединения перед выполнением запроса
+- Локальное хранение данных с помощью SharedPreferences
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Технологии
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – кроссплатформенная разработка на Dart
+- **Dart 3.6.0** – основной язык программирования
+- **flutter\_bloc** – управление состоянием через BLoC
+- **cached\_network\_image** – кэширование изображений
+- **get\_it** – внедрение зависимостей
+- **dartz** – функциональное программирование
+- **equatable** – сравнение объектов
+- **http** – работа с HTTP-запросами
+- **internet\_connection\_checker** – проверка соединения
+- **intl** – локализация и форматирование данных
+- **shared\_preferences** – локальное хранение данных
