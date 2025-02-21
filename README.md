@@ -2,7 +2,7 @@
 
 ## Описание
 
-Этот проект был разработан в рамках курса [Learn Flutter](https://www.udemy.com/course/learn_flutter/) на Udemy. Он предназначен для изучения Flutter и архитектурных подходов к созданию мобильных приложений.
+Этот проект был разработан в рамках курса [Learn Flutter](https://www.udemy.com/course/learn_flutter/) на Udemy.
 
 ## Функционал
 
